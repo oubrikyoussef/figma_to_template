@@ -59,7 +59,7 @@ A comprehensive online course that guides you through the process of integrating
 
 ## Author
 
-- LinledIn- [@youssefoubrik](https://www.linkedin.com/in/youssefoubrik/)
+- LinkedIn- [@youssefoubrik](https://www.linkedin.com/in/youssefoubrik/)
 
 ## Acknowledgments
 
