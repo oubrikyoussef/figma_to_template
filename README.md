@@ -42,7 +42,7 @@ To address this challenge,I've made the template with a clear and structured cod
 
 ### Links
 
-- Live Site URL: [Click Here](https://oubrikyoussef.github.io/figma_to_template/)
+- Live Site URL: [Click Here](https://oubrik-figma-to-template.netlify.app/)
 
 ### Built with
 
